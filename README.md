@@ -4,7 +4,7 @@ This repository contains the the first project of Udacity - Data Scientist - Ana
 # Motivation
 This project was created as part of Udacity's Data Scientist nanodegree. Here I have analyzed Seattle Airbnb Open Data following CRISP-DM methodology. Airbnb data for other cities have the same format. So the same understandings and code can be applied to Airbnb dataset of any other city.
 
-# business questions:
+# Business questions:
 
 Which properties is the most used in Seattle Airbnb? 
 What is the relation between price and property type? 
