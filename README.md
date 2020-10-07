@@ -13,7 +13,7 @@ Most common price listings for AirBnb?
 What is the common properties host locations in Seattle Airbnb?
 
 # Dataset Used:
-Seattle AirBnb data hhttps://www.kaggle.com/airbnb/seattle/data.
+Seattle AirBnb data https://www.kaggle.com/airbnb/seattle/data.
 
 # Libraries Used:
 numpy pandas matplotlib.pyplot sklearn seaborn decimal
