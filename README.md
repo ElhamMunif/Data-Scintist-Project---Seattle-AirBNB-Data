@@ -22,7 +22,7 @@ numpy pandas matplotlib.pyplot sklearn seaborn decimal
 Python3, Jupyter Notebook
 
 # Results
-The most common properties used in Seattle is thr Houses, and the comman price listings are in the 25-200 USD range with the highest price being 1000 USD, the comman response rate od the hosts is 100% , the  common host location in Seattle is Seattle, Washington, United States with 3259 properties , property types as   Loft , Tent and breakfast&bed  are the cheapest and room types which are shared are generally cheapest
+The most common properties used in Seattle is thr Houses, and the comman price listings are in the 25-200 USD range with the highest price being 1000 USD, the common response rate for the hosts is 100% , the  common host location in Seattle is Seattle, Washington, United States with 3259 properties , property types as   Loft , Tent and breakfast&bed  are the cheapest and room types which are shared are generally cheapest
 
 
 # Deployment:
