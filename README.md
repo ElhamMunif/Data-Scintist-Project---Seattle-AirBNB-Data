@@ -27,3 +27,6 @@ The most common properties used in Seattle is thr Houses, and the common price l
 
 # Deployment:
 Google Collab
+
+# Blog Post
+https://medium.com/@elham.almutairy/airbnb-is-an-american-vacation-rental-online-marketplace-company-based-in-san-francisco-6ccbdffbf7f9
