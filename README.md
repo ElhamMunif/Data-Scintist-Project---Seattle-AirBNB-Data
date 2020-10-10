@@ -1,4 +1,4 @@
-# AirBNB Rental manner In Seattle - Data Scientist Project
+# AirBNB Rental Manner In Seattle - Data Scientist Project
 This repository contains the the first project of Udacity - Data Scientist - Analysing the Seattle Data for Airbnb.
 
 # Motivation
